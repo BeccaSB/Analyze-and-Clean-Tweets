@@ -1,2 +1,7 @@
 # Analyze-and-Clean-Tweets
 We will clean and analyze preset of data tweets
+
+**The scenerio:**  A company might want to analyze the sentiment of customers towards their new product launch. They could use a project like this to extract data from social media platforms and analyze the sentiment of the tweets. If the sentiment is mostly positive, the company can use that to promote their product further. If the sentiment is negative, the company can identify the areas of concern and improve the product accordingly.
+
+**Goal**
+The project aims to perform sentiment analysis on a set of tweets related to a product launch by a company. The tweets are collected from various locations and users with different categories of sentiment (positive, negative, and mixed). The sentiment analysis involves analyzing the text of each tweet to determine the overall sentiment expressed in the tweet. The sentiment is then classified into one of the three categories (positive, negative, or mixed) based on the sentiment score. The project also involves storing the tweet data in a CSV file for future analysis and visualization. The CSV file contains columns for tweet ID, tweet text, username, location, followers, category, likes, and date. Finally, the project includes visualizing the sentiment analysis results using various charts and graphs to gain insights into the overall sentiment expressed by the users regarding the product launch.
